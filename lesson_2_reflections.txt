@@ -33,3 +33,8 @@ What is the result of merging two branches together? Why do we represent it in t
 merge all the codes that has been updated/added/deleted into one single branch
 cos that's exactly how logically it should be
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging while convenient may not be able to catch errors
+
+manual merge is tedious, error-prone, hard to find the errors even but can also reduces errors in merging
