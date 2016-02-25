@@ -5,8 +5,16 @@ so that git can be used to track commits
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-staging area - like buffer; temp working space in memory
-working directory - where all the files reside
-repository - is the glue for the git system
+1) working directory - where all the files reside; the actual files at any time
+2) staging area - files added to a temp space until they are committed
+3) repository - keeps the history of all the commits
 
-staging area is like a temp working space in the memory before files are commit etc
+allows you add multiple files for a single commit
+temp buffer to add or remove files for a single commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+check via 'git status' to see what files are in the staging area
+add/remove files for a single logical commit
+
+
