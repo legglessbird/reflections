@@ -17,4 +17,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 check via 'git status' to see what files are in the staging area
 add/remove files for a single logical commit
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+so I can experiment with new code, technique or some other stuff
+can have different branches for different languages
+and of course keep the working master branch just in case
