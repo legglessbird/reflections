@@ -27,3 +27,9 @@ How do the diagrams help you visualize the branch structure?
 
 so that you can see how each branch forked out, from which commit and how the move along with their own commits.
 You can see its parent and whether there's any commit that is unreachable
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merge all the codes that has been updated/added/deleted into one single branch
+cos that's exactly how logically it should be
+
