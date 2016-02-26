@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+- as a backup
+- for collaboration
+- using multiple computers so can sync commits
+- for public sharing
