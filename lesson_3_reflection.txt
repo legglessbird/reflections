@@ -20,3 +20,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 It's a lot harder especially working with multiple collaborators. I can't imagine how. Perhaps use other CVS.
 
 Using Git and GitHub would be much easier!
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Use branch when it's something different from the master branch. This gives you the opportunity to try out the different branches before deciding which one to use in the end.
